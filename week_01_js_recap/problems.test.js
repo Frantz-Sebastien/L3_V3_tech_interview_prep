@@ -2,6 +2,7 @@ const { reverseString, findMax, isPalindrome } = require('./problems');
 
 test('reverseString reverses a word', () => {
   expect(reverseString('hello')).toBe('olleh');
+  expect(reverseString('open')).toBe('nepo');
 });
 
 test('findMax returns the largest number', () => {

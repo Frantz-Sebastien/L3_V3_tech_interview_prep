@@ -1,0 +1,15 @@
+{
+  "name": "week_01_js_recap",
+  "version": "1.0.0",
+  "description": "**Goal:** Refresh JavaScript fundamentals and practice writing unit tests.",
+  "main": "problems.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
